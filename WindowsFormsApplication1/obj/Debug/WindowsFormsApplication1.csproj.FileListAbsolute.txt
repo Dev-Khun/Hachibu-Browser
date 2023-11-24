@@ -1,0 +1,70 @@
+F:\Hachibu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Hachibu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Hachibu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Hachibu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Hachibu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Definicoes.resources
+F:\Hachibu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Hachibu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Hachibu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Hachibu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Hachibu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Hachibu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Hachibu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Hachibu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Hachibu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Hachibu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\Hachibu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\Hachibu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Definicoes.resources
+G:\Hachibu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\Hachibu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Hachibu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+H:\Hachibu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+H:\Hachibu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+H:\Hachibu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+H:\Hachibu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+H:\Hachibu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+H:\Hachibu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+H:\Hachibu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Definicoes.resources
+H:\Hachibu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+H:\Hachibu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\Hachibu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\Web Browser Diogo Rodrigues nº 11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Web Browser Diogo Rodrigues nº 11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Web Browser Diogo Rodrigues nº 11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Web Browser Diogo Rodrigues nº 11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Web Browser Diogo Rodrigues nº 11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\Web Browser Diogo Rodrigues nº 11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\Web Browser Diogo Rodrigues nº 11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Definicoes.resources
+G:\Web Browser Diogo Rodrigues nº 11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\Web Browser Diogo Rodrigues nº 11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Web Browser Diogo Rodrigues nº 11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\os meus ficheiros\Muchzilla fireDoge\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\os meus ficheiros\Muchzilla fireDoge\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\os meus ficheiros\Muchzilla fireDoge\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\os meus ficheiros\Muchzilla fireDoge\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\os meus ficheiros\Muchzilla fireDoge\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\os meus ficheiros\Muchzilla fireDoge\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\os meus ficheiros\Muchzilla fireDoge\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Definicoes.resources
+F:\os meus ficheiros\Muchzilla fireDoge\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\os meus ficheiros\Muchzilla fireDoge\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\os meus ficheiros\Muchzilla fireDoge\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\os meus ficheiros\Hachibu Web Browser\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\os meus ficheiros\Hachibu Web Browser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\os meus ficheiros\Hachibu Web Browser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\os meus ficheiros\Hachibu Web Browser\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\os meus ficheiros\Hachibu Web Browser\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\os meus ficheiros\Hachibu Web Browser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\os meus ficheiros\Hachibu Web Browser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Definicoes.resources
+F:\os meus ficheiros\Hachibu Web Browser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\os meus ficheiros\Hachibu Web Browser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\os meus ficheiros\Hachibu Web Browser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Diogo7\Desktop\Hachibu Web Browser\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Diogo7\Desktop\Hachibu Web Browser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Diogo7\Desktop\Hachibu Web Browser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Diogo7\Desktop\Hachibu Web Browser\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Diogo7\Desktop\Hachibu Web Browser\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Diogo7\Desktop\Hachibu Web Browser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Diogo7\Desktop\Hachibu Web Browser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Definicoes.resources
+C:\Users\Diogo7\Desktop\Hachibu Web Browser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Diogo7\Desktop\Hachibu Web Browser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Diogo7\Desktop\Hachibu Web Browser\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
